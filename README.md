@@ -3,7 +3,7 @@
 
 #### Mine Github
 <a href="https://github.com/Sheng14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sheng14&count_private=true&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sheng14&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Sheng14">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheng14&layout=compact" />
