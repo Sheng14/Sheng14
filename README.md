@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 你好，我是 Sheng14
 
-#### github基础统计信息
+#### Mine Github
 <a href="https://github.com/Sheng14">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sheng14&count_private=true&show_icons=true&theme=radical" />
 </a>
