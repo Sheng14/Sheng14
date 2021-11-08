@@ -1,8 +1,7 @@
 ### Hi there 👋
-### 你好，我是 Sheng14
+### 你好，我是 Sheng14，✨愿帝皇真理成为照亮你前进道路的火炬✨
 
 #### Mine Github
-#### ✨愿帝皇真理成为你前进的火炬✨
 <a href="https://github.com/Sheng14">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sheng14&count_private=true&show_icons=true&theme=radical" />
 </a>
