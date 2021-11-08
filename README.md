@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheng14&repo=Hit-the-frontend&theme=radical" />
 </a>
 <a href="https://github.com/wangsrGit119">
-  <img align="right" src="https://img.3dmgame.com/uploads/images/news/20210702/1625211110_549200.jpg" />
+  <img align="right" src="https://img.3dmgame.com/uploads/images/news/20210906/1630914404_272791.jpg" />
 </a>
 <!--
 **Sheng14/Sheng14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
