@@ -7,6 +7,7 @@
 </a>
 <a href="https://github.com/Sheng14">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheng14&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangsrGit119&repo=audio-translate&theme=radical" />
 </a>
 <!--
 **Sheng14/Sheng14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
