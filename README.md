@@ -4,7 +4,7 @@
 #### Mine Github
 <a href="https://github.com/Sheng14">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sheng14&count_private=true&show_icons=true&theme=radical" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheng14&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheng14&layout=compact" />
 </a>
 <!--
 **Sheng14/Sheng14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
