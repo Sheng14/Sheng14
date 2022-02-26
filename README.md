@@ -8,7 +8,7 @@
 <a href="https://github.com/Sheng14">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheng14&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheng14&repo=Hit-the-frontend&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheng14&repo=FEThinkTank&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheng14&repo=FEThinkTank&theme=compact" />
 </a>
 <a href="https://github.com/Sheng14">
   <img align="right" src="https://img.3dmgame.com/uploads/images/news/20210702/1625211110_549200.jpg" />
